@@ -1,0 +1,23 @@
+{
+  "name": "dope-logo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinblunck/Dope-Logo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinblunck/Dope-Logo/issues"
+  },
+  "homepage": "https://github.com/marvinblunck/Dope-Logo#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
