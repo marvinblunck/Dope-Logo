@@ -9,7 +9,7 @@ In challenge ten we were asked to create a custom logo generator. All you have t
 4. [License](#license)
 
 ## install
-N/A
+You must install inquirer and jest.
 
 ## usage
 Click the link to see a walkthrough:   https://drive.google.com/file/d/1_CBOPJ68s4SmcqFxff30tX6DYfM7qWcR/view
