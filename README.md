@@ -1,4 +1,4 @@
-# Weather-Forecast
+# Logo-Generator
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
 In challenge ten we were asked to create a custom logo generator. All you have to do is type in what letters, color, and shape you would like and the svg logo should be generated.
