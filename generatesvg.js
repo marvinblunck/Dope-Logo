@@ -1,7 +1,11 @@
-const Square= require("./Square.js");
-const Circle= require("./Circle.js");
-const Triangle= require("./Triangle.js");
+const Square= require("./lib/Square.js");
+const Circle= require("./lib/Circle.js");
+const Triangle= require("./lib/Triangle.js");
 function generateSvg(data){
+    //check if data.shape is a certain shape
+    //if its ssquare use new sqaure syntax to make a new object
+    // replace svg in return with square.render ()
+
     return `
     <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +25,6 @@ function generateSvg(data){
   </svg>
   </body>
   </html>
-  
     `;
 }
 module.exports = generateSvg;
